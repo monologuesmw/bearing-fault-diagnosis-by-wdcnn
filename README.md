@@ -24,10 +24,8 @@ step 2 【checkpoint file download:】
 
 EPOCH: 100, TEST_ACCURACY: 98.93%
 
-link：https://pan.baidu.com/s/19LK4SbKjkKeB2J9qwz8VMw 
-
-access code：jzv5 
+link：https://pan.baidu.com/s/19LK4SbKjkKeB2J9qwz8VMw  access code：jzv5 
 
 Step 3 【data download】
 
-link：https://pan.baidu.com/s/1wyKCrS_X_kCgV1lC5ibAYw access code：tg6k
+link：https://pan.baidu.com/s/1wyKCrS_X_kCgV1lC5ibAYw  access code：tg6k
